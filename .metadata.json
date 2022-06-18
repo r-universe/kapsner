@@ -1,0 +1,10 @@
+[
+  {
+    "package": "BiasCorrector",
+    "oncran": true
+  },
+  {
+    "package": "rBiasCorrection",
+    "oncran": true
+  }
+]

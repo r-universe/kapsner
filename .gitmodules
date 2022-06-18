@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BiasCorrector"]
+	path = BiasCorrector
+	url = https://github.com/kapsner/biascorrector
+	shallow = true
+	registered = true
+[submodule "rBiasCorrection"]
+	path = rBiasCorrection
+	url = https://github.com/kapsner/rbiascorrection
+	shallow = true
+	registered = true
