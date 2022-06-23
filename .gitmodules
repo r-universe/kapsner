@@ -13,3 +13,8 @@
 	url = https://github.com/kapsner/rbiascorrection
 	shallow = true
 	registered = true
+[submodule "sjtable2df"]
+	path = sjtable2df
+	url = https://github.com/kapsner/sjtable2df
+	shallow = true
+	registered = true

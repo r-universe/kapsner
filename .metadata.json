@@ -6,5 +6,9 @@
   {
     "package": "rBiasCorrection",
     "oncran": true
+  },
+  {
+    "package": "sjtable2df",
+    "oncran": true
   }
 ]
