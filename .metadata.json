@@ -1,5 +1,9 @@
 [
   {
+    "package": "autonewsmd",
+    "oncran": true
+  },
+  {
     "package": "BiasCorrector",
     "oncran": true
   },
