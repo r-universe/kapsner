@@ -1,6 +1,10 @@
 [
   {
-    "package": "autonewsmd",
+    "package": "rBiasCorrection",
+    "oncran": true
+  },
+  {
+    "package": "sjtable2df",
     "oncran": true
   },
   {
@@ -8,11 +12,7 @@
     "oncran": true
   },
   {
-    "package": "rBiasCorrection",
-    "oncran": true
-  },
-  {
-    "package": "sjtable2df",
+    "package": "autonewsmd",
     "oncran": true
   }
 ]
