@@ -3,6 +3,16 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "autonewsmd"]
+	path = autonewsmd
+	url = https://github.com/kapsner/autonewsmd
+	shallow = true
+	registered = true
+[submodule "BiasCorrector"]
+	path = BiasCorrector
+	url = https://github.com/kapsner/biascorrector
+	shallow = true
+	registered = true
 [submodule "rBiasCorrection"]
 	path = rBiasCorrection
 	url = https://github.com/kapsner/rbiascorrection
@@ -11,15 +21,5 @@
 [submodule "sjtable2df"]
 	path = sjtable2df
 	url = https://github.com/kapsner/sjtable2df
-	shallow = true
-	registered = true
-[submodule "BiasCorrector"]
-	path = BiasCorrector
-	url = https://github.com/kapsner/biascorrector
-	shallow = true
-	registered = true
-[submodule "autonewsmd"]
-	path = autonewsmd
-	url = https://github.com/kapsner/autonewsmd
 	shallow = true
 	registered = true
