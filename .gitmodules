@@ -13,6 +13,11 @@
 	url = https://github.com/kapsner/biascorrector
 	shallow = true
 	registered = true
+[submodule "kdry"]
+	path = kdry
+	url = https://github.com/kapsner/kdry
+	shallow = true
+	registered = true
 [submodule "rBiasCorrection"]
 	path = rBiasCorrection
 	url = https://github.com/kapsner/rbiascorrection
