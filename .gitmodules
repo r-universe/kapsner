@@ -18,6 +18,11 @@
 	url = https://github.com/kapsner/kdry
 	shallow = true
 	registered = true
+[submodule "mlexperiments"]
+	path = mlexperiments
+	url = https://github.com/kapsner/mlexperiments
+	shallow = true
+	registered = true
 [submodule "rBiasCorrection"]
 	path = rBiasCorrection
 	url = https://github.com/kapsner/rbiascorrection
