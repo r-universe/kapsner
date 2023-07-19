@@ -14,6 +14,9 @@
 [submodule "mlexperiments"]
 	path = mlexperiments
 	url = https://github.com/kapsner/mlexperiments
+[submodule "mllrnrs"]
+	path = mllrnrs
+	url = https://github.com/kapsner/mllrnrs
 [submodule "rBiasCorrection"]
 	path = rBiasCorrection
 	url = https://github.com/kapsner/rbiascorrection
