@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "autonewsmd"]
-	path = autonewsmd
-	url = https://github.com/kapsner/autonewsmd
 [submodule "BiasCorrector"]
 	path = BiasCorrector
 	url = https://github.com/kapsner/biascorrector
+[submodule "autonewsmd"]
+	path = autonewsmd
+	url = https://github.com/kapsner/autonewsmd
 [submodule "kdry"]
 	path = kdry
 	url = https://github.com/kapsner/kdry
