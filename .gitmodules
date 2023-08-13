@@ -17,6 +17,9 @@
 [submodule "mllrnrs"]
 	path = mllrnrs
 	url = https://github.com/kapsner/mllrnrs
+[submodule "mlsurvlrnrs"]
+	path = mlsurvlrnrs
+	url = https://github.com/kapsner/mlsurvlrnrs
 [submodule "rBiasCorrection"]
 	path = rBiasCorrection
 	url = https://github.com/kapsner/rbiascorrection
